@@ -3,4 +3,4 @@ Sistema binario:
 Lógica:
 Algoritmo:
 Programación:
-Editores de testo y entornos de desarrollo:
+Editores de texto y entornos de desarrollo:

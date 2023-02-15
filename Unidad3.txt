@@ -1,6 +1,0 @@
-Controlador de versiones:
-Este sirve para verificar los cambios hechas en algún trabajo, documento, programa, etc., este nos indica que fue lo que se cambió, cual versión es, también por medio de esto se puede comparar las distintas versiones para resolver problemas que si en dado caso este lo tuviera. Esto también se usa para administrar proyectos que hacen varias personas para ver el cambio y actualización en un historial, que fue lo cambio y cuando se hizo cada una, donde el administrador verifica si el cambio hecho es lo esperado y adecuado para evitar problemas en esa versión.
-GIT:
-Este es un controlador de versión el cual se usa para tener un seguimiento a los cambios en los proyectos que se realiza, por ejemplo, en algún programa que se esté desarrollando en algún lenguaje de programación, si este en dado caso mostrara algún bug, se revisaría el historial de cambios para ver qué es lo que recientemente se modificó en él y ver cuál de esos cambios lo provoca para poder corregirla sin complicarse.
-GITHUB:
-Es el programa donde se usa las distintas funciones de GIT, los proyectos se guardan en repositorios, es usado mayormente por ingenieros informáticos para llevar un control sobre sus proyectos de software.
